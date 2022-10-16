@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7F534FAAC2B422F9952CB4B557C34047"
-               BuildableName = "Pods_Parstagram_ParstagramUITests.framework"
-               BlueprintName = "Pods-Parstagram-ParstagramUITests"
+               BlueprintIdentifier = "8F85A0E10F7A126033C850522E9F6B53"
+               BuildableName = "Pods_ParstaGramTests.framework"
+               BlueprintName = "Pods-ParstaGramTests"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

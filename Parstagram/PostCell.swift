@@ -1,6 +1,6 @@
 //
 //  PostCell.swift
-//  Parstagram
+//  ParstaGram
 //
 //  Created by Guilherme Camara on 10/12/22.
 //
@@ -8,12 +8,9 @@
 import UIKit
 
 class PostCell: UITableViewCell {
-
-    
     @IBOutlet weak var photoView: UIImageView!
     
     @IBOutlet weak var usernameLabel: UILabel!
-    
     
     @IBOutlet weak var captionLabel: UILabel!
     
@@ -25,7 +22,6 @@ class PostCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        // Configure the view for the selected state
     }
-
+    
 }

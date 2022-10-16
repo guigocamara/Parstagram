@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_Parstagram_ParstagramUITests : NSObject
+@interface PodsDummy_Pods_ParstaGram_ParstaGramUITests : NSObject
 @end
-@implementation PodsDummy_Pods_Parstagram_ParstagramUITests
+@implementation PodsDummy_Pods_ParstaGram_ParstaGramUITests
 @end
